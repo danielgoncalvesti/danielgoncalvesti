@@ -10,4 +10,4 @@
 
 Please, feel free to reach out to me here:
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/danielgoncalvesdev/videos)](https://www.youtube.com/c/danielgoncalvesdev/videos) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danielgoncalves.dev/)](https://www.instagram.com/danielgoncalves.dev/) [![Gmail Badge](https://img.shields.io/badge/danielgoncalvesti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielgoncalvesti@gmail.com)](mailto:danielgoncalvesti@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/danielgoncalvesti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielgoncalvesti@gmail.com)](mailto:danielgoncalvesti@gmail.com)
